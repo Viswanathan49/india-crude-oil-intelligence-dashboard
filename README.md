@@ -199,10 +199,8 @@ Country Share % =
 ## Author
 
 **Viswanathan S**
-- Department of Artificial Intelligence and Data Science
-- Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai
 - Microsoft Elevate × AICTE Internship — Capstone Project
-
+- Contact : viswanathansk49@gmail.com
 ---
 
 ## License
