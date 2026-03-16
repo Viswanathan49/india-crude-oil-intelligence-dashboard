@@ -16,22 +16,22 @@ Built as a Capstone Project under the **Microsoft Elevate × AICTE Internship** 
 ### Page 1 — Overview
 > KPI cards, import vs. domestic production gap, crude oil import sources (donut chart), import dependency gauge, and key takeaways.
 
-![Overview](1.png)
+![Overview](img/1.png)
 
 ### Page 2 — Import Trends
 > Decade-long import growth (bar chart), import volume vs. import bill comparison, import dependency trend (FY2014–FY2025), and key events timeline.
 
-![Import Trends](2.png)
+![Import Trends](img/2.png)
 
 ### Page 3 — Supply Sources
 > Country-wise import share (stacked bar), Russia's dramatic rise as India's #2 supplier, regional import split (donut chart), and Indian basket crude price trend.
 
-![Supply Sources](3.png)
+![Supply Sources](img/3.png)
 
 ### Page 4 — Refinery & Stocks
 > Petroleum product stock levels (gauges), refinery utilization by company (bar chart), total installed refining capacity (258 MMTPA), and total supply vs. imports trend.
 
-![Refinery & Stocks](4.png)
+![Refinery & Stocks](img/4.png)
 
 ---
 
